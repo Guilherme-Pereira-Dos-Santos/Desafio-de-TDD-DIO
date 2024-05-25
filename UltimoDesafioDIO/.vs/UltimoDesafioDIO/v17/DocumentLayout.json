@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\UltimoDesafioDIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE725EE-E5D9-449E-99D1-6D12DFA721C7}|UltimoDesafioDIO.csproj|c:\\users\\guilh\\onedrive\\desktop\\guilherme\\nova pasta\\dio ultimo desafio\\ultimodesafiodio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE725EE-E5D9-449E-99D1-6D12DFA721C7}|UltimoDesafioDIO.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C65A97-77DD-407D-A61B-F95D322C1CE6}|..\\TESTEULTIMODIO\\TESTEULTIMODIO.csproj|c:\\users\\guilh\\onedrive\\desktop\\guilherme\\nova pasta\\dio ultimo desafio\\testeultimodio\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE725EE-E5D9-449E-99D1-6D12DFA721C7}|UltimoDesafioDIO.csproj|c:\\users\\guilh\\onedrive\\desktop\\guilherme\\nova pasta\\dio ultimo desafio\\ultimodesafiodio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE725EE-E5D9-449E-99D1-6D12DFA721C7}|UltimoDesafioDIO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C65A97-77DD-407D-A61B-F95D322C1CE6}|..\\TESTEULTIMODIO\\UltimoDesafioDIOTeste.csproj|c:\\users\\guilh\\onedrive\\desktop\\guilherme\\nova pasta\\dio ultimo desafio\\testeultimodio\\ultimodesafiodioteste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UltimoDesafioDIOTeste",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\TESTEULTIMODIO\\UltimoDesafioDIOTeste.csproj",
+              "RelativeDocumentMoniker": "..\\TESTEULTIMODIO\\UltimoDesafioDIOTeste.csproj",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\TESTEULTIMODIO\\UltimoDesafioDIOTeste.csproj",
+              "RelativeToolTip": "..\\TESTEULTIMODIO\\UltimoDesafioDIOTeste.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T22:53:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\UltimoDesafioDIO\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\UltimoDesafioDIO\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:51:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\TESTEULTIMODIO\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TESTEULTIMODIO\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\TESTEULTIMODIO\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TESTEULTIMODIO\\UnitTest1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:47:39.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\UltimoDesafioDIO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Desktop\\guilherme\\Nova pasta\\DIO Ultimo Desafio\\UltimoDesafioDIO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:42:48.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
